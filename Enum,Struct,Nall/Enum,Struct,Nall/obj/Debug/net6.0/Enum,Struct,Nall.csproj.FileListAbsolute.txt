@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\bin\Debug\net6.0\Enum,Struct,Nall.exe
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\bin\Debug\net6.0\Enum,Struct,Nall.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\bin\Debug\net6.0\Enum,Struct,Nall.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\bin\Debug\net6.0\Enum,Struct,Nall.dll
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\bin\Debug\net6.0\Enum,Struct,Nall.pdb
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.dll
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\refint\Enum,Struct,Nall.dll
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.pdb
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\Enum,Struct,Nall.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\static,extantion,enum,struct,nall\homework\Enum,Struct,Nall\Enum,Struct,Nall\obj\Debug\net6.0\ref\Enum,Struct,Nall.dll
